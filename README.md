@@ -4,7 +4,7 @@ I'm non-binary, but I'm not particularly fussed about pronouns. Surprise me! Or 
 
 I began my journey into game development in late 2017 using Lua.  
 Since I began studying at university, I've seized any opportunity that I can to further my understanding of games.  
-I'm particularly fond on Rust, although I have yet to use it in any significant capacity.
+I'm particularly fond of Rust, although I have yet to use it in any significant capacity.
 
 I have experience using:
 - Rust
