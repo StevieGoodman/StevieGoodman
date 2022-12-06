@@ -18,15 +18,11 @@ At the moment, I act as project manager for both my team modules:
 - **Concept Development**  
   Short prototype for a top-down 2D stealth game inspired by Monaco
 - **Team Software Engineering**  
-  3D stealth game with the theme of "non-verbal communication between players and NPCs"
-
-## 🌱 Currently Learning
-On weekends I spend time creating prototypes in Unity - each focusing on an aspect of the Unity engine I'd like to learn about.
-I haven't created any yet, but I'll list them here when I have!
+  Stealth game with a focus on non-verbal accessibility features
 
 ## 📫 Contact Me
 Feel free to contact me using:
 - **Discord**  
-  Quartz#3928
+  prism#3928
 - **Email or iMessage**  
   mail@steviegoodman.com
