@@ -12,19 +12,25 @@ I have experience using:
 - C++
 - Lua
 
-## 🔭 Current Project
-This year, I'm focusing largely on university coursework.  
-At the moment, I act as project manager for both my team modules:
-- [x] **[Co-conspirators: partners in crime](https://github.com/CGP2014/Monaclone)** (Concept Development)  
-  Short prototype for a top-down 2D stealth game inspired by Monaco
-- [ ] **Team Software Engineering**  
+## 🔭 Current Projects
+This year, I'm focusing largely on university coursework, but I'm looking for opportunities to work on my personal projects where possible.  
+- **Team Software Engineering Module**  
   Stealth game featuring a visually impaired protagonist
-  
-However, I look for opportunities to work on my own projects where possible:
-- [ ] **Stealth game prototype**  
+- **Stealth game prototype**  
   Simple unnamed prototype created in a week to practise application of SOLID principles
-- [ ] **UoL Global Game Jam 2022**  
+
+
+## ⏱️ Future Projects
+- **UoL Global Game Jam 2022**  
   48h game jam entry for University of Lincoln's annual Global Game Jam event
+
+## 🎉 Previous Projects
+- **[Co-conspirators: partners in crime](https://github.com/CGP2014/Monaclone)** (concept development module)  
+  Short prototype for a top-down 2D stealth game inspired by Monaco
+- **Unnamed Top-down Shooter** (games programming module)  
+  A rather janky top-down shooter created in an unreasonably limited time frame
+- **Site 74**  
+  Unreleased roleplay game developed between 2017-2021 based within a secret underground [SCP](https://scp-wiki.wikidot.com/about-the-scp-foundation) facility
 
 ## 📫 Contact Me
 Feel free to contact me using:
