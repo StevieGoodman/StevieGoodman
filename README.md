@@ -19,15 +19,16 @@ This year, I'm focusing largely on university coursework, but I'm looking for op
 - **Stealth game prototype**  
   Simple unnamed prototype created in a week to practise application of SOLID principles
 
-
 ## ⏱️ Future Projects
 - **UoL Global Game Jam 2022**  
   48h game jam entry for University of Lincoln's annual Global Game Jam event
+- **Game Programming Module**  
+  C++ project written in SDL2 
 
 ## 🎉 Previous Projects
 - **[Co-conspirators: partners in crime](https://github.com/CGP2014/Monaclone)** (concept development module)  
   Short prototype for a top-down 2D stealth game inspired by Monaco
-- **Unnamed Top-down Shooter** (games programming module)  
+- **Unnamed Top-down Shooter** (games development module)  
   A rather janky top-down shooter created in an unreasonably limited time frame
 - **Site 74**  
   Unreleased roleplay game developed between 2017-2021 based within a secret underground [SCP](https://scp-wiki.wikidot.com/about-the-scp-foundation) facility
