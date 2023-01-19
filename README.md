@@ -15,10 +15,16 @@ I have experience using:
 ## 🔭 Current Project
 This year, I'm focusing largely on university coursework.  
 At the moment, I act as project manager for both my team modules:
-- **Concept Development**  
+- [x] **[Co-conspirators: partners in crime](https://github.com/CGP2014/Monaclone)** (Concept Development)  
   Short prototype for a top-down 2D stealth game inspired by Monaco
-- **Team Software Engineering**  
-  Stealth game with a focus on non-verbal accessibility features
+- [ ] **Team Software Engineering**  
+  Stealth game featuring a visually impaired protagonist
+  
+However, I look for opportunities to work on my own projects where possible:
+- [ ] **Stealth game prototype**  
+  Simple unnamed prototype created in a week to practise application of SOLID principles
+- [ ] **UoL Global Game Jam 2022**  
+  48h game jam entry for University of Lincoln's annual Global Game Jam event
 
 ## 📫 Contact Me
 Feel free to contact me using:
