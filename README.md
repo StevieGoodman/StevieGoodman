@@ -12,19 +12,6 @@ I have experience using:
 - C++
 - Lua
 
-## 🔭 Current Projects
-This year, I'm focusing largely on university coursework, but I'm looking for opportunities to work on my personal projects where possible.  
-- **Team Software Engineering Module**  
-  Stealth game featuring a visually impaired protagonist
-- **Stealth game prototype**  
-  Simple unnamed prototype created in a week to practise application of SOLID principles
-
-## ⏱️ Future Projects
-- **UoL Global Game Jam 2022**  
-  48h game jam entry for University of Lincoln's annual Global Game Jam event
-- **Game Programming Module**  
-  C++ project written in SDL2 
-
 ## 🎉 Previous Projects
 - **[Co-conspirators: partners in crime](https://github.com/CGP2014/Monaclone)** (concept development module)  
   Short prototype for a top-down 2D stealth game inspired by Monaco
