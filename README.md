@@ -14,6 +14,8 @@ I have experience using:
 - Rust (1y)
 
 ## 🎉 Previous Projects
+- **Oxide**  
+  Brings the power of Rust `Option<T>` and `Result<T, E>` types to Lua!
 - **[Co-conspirators: partners in crime](https://github.com/CGP2014/Monaclone)** (concept development module)  
   Short prototype for a top-down 2D stealth game inspired by Monaco
 - **Unnamed Top-down Shooter** (games development module)  
@@ -24,6 +26,6 @@ I have experience using:
 ## 📫 Contact Me
 Feel free to contact me using:
 - **Discord**  
-  prism#3928
+  ithaca_the_enby
 - **Email or iMessage**  
   mail@steviegoodman.com
