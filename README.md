@@ -7,10 +7,11 @@ Since I began studying at university, I've seized any opportunity that I can to 
 I'm particularly fond of Rust, although I have yet to use it in any significant capacity.
 
 I have experience using:
-- Rust
-- C#
-- C++
-- Lua
+
+- Lua (7y)
+- C# (3y)
+- C++ (1y)
+- Rust (1y)
 
 ## 🎉 Previous Projects
 - **[Co-conspirators: partners in crime](https://github.com/CGP2014/Monaclone)** (concept development module)  
