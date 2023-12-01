@@ -14,7 +14,11 @@ I have experience using:
 - Rust (1y)
 
 ## 🎉 Previous Projects
-- **Oxide**  
+- **Custodian**
+  Simple implementation of `Option` and `Result` types available in languages like Rust!
+- **Waiter**  
+  Replacement for Roblox's `:WaitFor...()` family of functions with additional functionality!
+- **Oxide** (deprecated)  
   Brings the power of Rust `Option<T>` and `Result<T, E>` types to Lua!
 - **[Co-conspirators: partners in crime](https://github.com/CGP2014/Monaclone)** (concept development module)  
   Short prototype for a top-down 2D stealth game inspired by Monaco
