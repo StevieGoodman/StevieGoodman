@@ -14,7 +14,7 @@ I have experience using:
 - Rust (1y)
 
 ## 🎉 Previous Projects
-- **Custodian**
+- **Custodian**  
   Simple implementation of `Option` and `Result` types available in languages like Rust!
 - **Waiter**  
   Replacement for Roblox's `:WaitFor...()` family of functions with additional functionality!
