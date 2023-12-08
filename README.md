@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Stevie
-I'm a second year games computing student studying at the University of Lincoln.  
+I'm a third year games computing student studying at the University of Lincoln.  
 I'm non-binary, but I'm not particularly fussed about pronouns. Surprise me! Or don't, again, I don't really mind.
 
 I began my journey into game development in late 2017 using Lua.  
